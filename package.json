@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@tgdn/react-dropdown": "0.0.7",
     "@trendmicro/react-dropdown": "^1.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "leaflet": "^1.6.0",
     "node-sass": "^4.14.1",
